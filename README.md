@@ -1,0 +1,2 @@
+# python3-dubbo-client
+基于telnetlib实现直接调用dubbo provider暴露出来的服务。同时，也基于kazoo提供了从zk注册中心获取当前zk中注册所有服务的功能。
